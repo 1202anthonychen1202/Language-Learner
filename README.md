@@ -1,5 +1,5 @@
 # Language-Learner
-Language Learner is a web application created using the Whisper model from OpenAI for Hack CEWIT 2023.
+Language Learner is a web application created using the Whisper model from OpenAI for Hack@CEWIT 2023.
 Language Learner focuses on improving language fluency and presentation skills.
 The Whisper model from OpenAI can recognize 99 languages with varying comprehension and can understand accents and dialects.
 
