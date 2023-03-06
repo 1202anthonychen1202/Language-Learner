@@ -4,7 +4,24 @@ Language Learner focuses on improving language fluency and presentation skills.
 The Whisper model from OpenAI can recognize 99 languages with varying comprehension and can understand accents and dialects.
 
 ## Quick Start Guide
-Install necessary libraries, create virtual environment, and then run Python code.
+Download Python code and then create the virtual environment by running the following commands (if using Python 3.9 on MacOS):
+
+python3.9 -m venv env
+
+source env/bin/activate
+
+pip3 install --upgrade pip
+
+Next, install the following libraries:
+
+pip install gradio
+
+pip install pandas
+
+Install homebrew and run following command on terminal for audio files:
+
+brew install ffmpeg
+
 An OpenAI API key is also needed and can be obtained from the OpenAI website.
 To use, follow these steps:
 
