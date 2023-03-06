@@ -16,6 +16,8 @@ Next, install the following libraries:
 
 pip install gradio
 
+pip install openai
+
 pip install pandas
 
 Install homebrew and run following command on terminal for audio files:
