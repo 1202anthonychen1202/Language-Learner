@@ -22,7 +22,7 @@ Install homebrew and run following command on terminal for audio files:
 
 brew install ffmpeg
 
-An OpenAI API key is also needed and can be obtained from the OpenAI website.
+An OpenAI API key is also needed and can be obtained from the OpenAI website. To open program, run the Python file and copy the url in the command line.
 To use, follow these steps:
 
 1. Input presentation or speech text into the text input box
