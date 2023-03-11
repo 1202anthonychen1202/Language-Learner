@@ -2,7 +2,6 @@ import gradio as gr
 import openai
 from dotenv import load_dotenv
 import string
-from tabulate import tabulate
 import pandas as pd
 import os
 
