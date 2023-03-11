@@ -1,6 +1,5 @@
 import gradio as gr
 import openai
-# import config
 from dotenv import load_dotenv
 import string
 from tabulate import tabulate
