@@ -12,13 +12,9 @@ source env/bin/activate
 
 pip3 install --upgrade pip
 
-Next, install the following libraries:
+Next, install the following libraries in the requirements file with:
 
-pip install gradio
-
-pip install openai
-
-pip install pandas
+pip install -r requirements.txt
 
 Install homebrew and run following command on terminal for audio files:
 
